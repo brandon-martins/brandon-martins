@@ -28,7 +28,7 @@ Previously: **Senior System Software Engineer @ Standard Bank Group IT** (Mobile
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Portfolio](https://github.com/bran-io/brandon-portfolio) | My personal dev portfolio | React · Vite · Tailwind CSS |
+| [Portfolio](https://github.com/brandon-martins/brandon-portfolio) | My personal dev portfolio | React · Vite · Tailwind CSS |
 
 ---
 
