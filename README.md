@@ -8,7 +8,7 @@
 ### 🛠 Tech Stack
 
 **Front-End:** JavaScript · React · HTML5 · CSS3 · PWAs  
-**Back-End:** PHP · Java · Node.js · C# · JSP  
+**Back-End:** Express · Node.js · Java · C# · JSP  
 **Databases:** MySQL · MongoDB · DB2  
 **Cloud & DevOps:** AWS · Linux · Git · cPanel  
 **Other:** WordPress · SEO · Digital Marketing · Agile
